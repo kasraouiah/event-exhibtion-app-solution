@@ -69,3 +69,6 @@ regarding Current Address
 regarding Interest
 "An exhibition is related to one Interest AND Interest can be related to many exhibition (One-to-many)" 
 ```
+
+
+![image](https://github.com/user-attachments/assets/58d20218-7ff7-4f40-b56e-fb628c9114db)
