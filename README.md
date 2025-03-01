@@ -30,7 +30,6 @@ Represents an exhibition held within an event.
 Represents an attendee registering for exhibitions.
 - Full_Name: String (Guest's full name)
 - Email: String (Guest's email)
-- Username: String (Unique identifier, using email format)
 
 ### Current Address
 
